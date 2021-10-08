@@ -4,6 +4,12 @@ Esse repositório faz parte do curso Recriando a página inicial do instagram.
 
 Nesse projeto o desafio é recriar a página de login do instagram. Utilizando CSS com Flexbox.
 
+
+
+![demo](\img\demo.jpg)
+
+
+
 ### Os requisitos são:
 
 * [HTML básico](https://www.w3schools.com/html/)
