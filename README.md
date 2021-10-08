@@ -6,7 +6,7 @@ Nesse projeto o desafio é recriar a página de login do instagram. Utilizando C
 
 
 
-![demo](\img\demo.jpg)
+![demo](https://github.com/DavidAlmeidaDesigner/recriando-landing-instagram/blob/master/img/demo.jpg)
 
 
 
