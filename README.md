@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram
 
-Esse é o repositório faz parte do curso Recriando a página inicial do instagram. 
+Esse repositório faz parte do curso Recriando a página inicial do instagram. 
 
 Nesse projeto o desafio é recriar a página de login do instagram. Utilizando CSS com Flexbox.
 
